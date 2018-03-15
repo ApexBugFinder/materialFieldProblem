@@ -1,0 +1,18 @@
+mat-form-field {
+    width: 350px;
+    margin-top:30px;
+}
+.firstItem {
+    top: 10%;
+    margin-top: 45px;
+    padding-top: 15px;
+}
+mat-checkbox {
+    margin: 15px 15px;
+
+}
+mat-error {
+    font-size: 10px;
+    color: red;
+}
+
